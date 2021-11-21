@@ -27,6 +27,6 @@ public class HashDemo
         String s=lhm.get(5);
         lhm.put(4,"K");
         lhm.get(1);
-        System.out.println(lhm);
+        System.out.println("Output is : "+lhm);
     }
 }
