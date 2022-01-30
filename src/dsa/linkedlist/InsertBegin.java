@@ -6,6 +6,7 @@ import java.lang.*;
 
 class Node {
     public Node prev;
+    public Node random;
     int data;
     Node next;
 
